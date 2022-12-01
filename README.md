@@ -1,4 +1,4 @@
-## Screenshot
+## Wireframe
 # Login
 ![Login](./public/wireframe/Login.png)
 # Home Page
